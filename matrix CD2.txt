@@ -1,0 +1,501 @@
+{41}{93}...|déjame examinarte.
+{124}{160}Abre la boca.|Di: "Ah" .
+{558}{683}Ahora se supone que yo debo decir:|"Qué interesante, pero..."
+{690}{717}Y luego tú dices:
+{737}{763}"¿Pero qué?"
+{766}{867}Pero tú ya sabes|lo que te voy a decir.
+{896}{921}No soy el Elegido.
+{926}{969}Lo siento,| muchacho.
+{1006}{1057}Tienes el don...
+{1078}{1132}...pero siento que estás|esperando algo.
+{1249}{1270}¿Qué?
+{1275}{1346}Tu siguiente vida, quizá.|¿Quién sabe?
+{1358}{1415}Así son estas cosas.
+{1433}{1454}¿De qué te ríes?
+{1463}{1497}Morfeo.
+{1577}{1621}Ya casi me había convencido.
+{1625}{1652}Ya lo sé.
+{1690}{1741}Pobre Morfeo.
+{1796}{1876}Sin él,| estamos perdidos.
+{1909}{1963}¿Cómo que "sin él"?
+{2056}{2104}¿Seguro que quieres|oír esto?
+{2155}{2226}Morfeo cree en ti,| Neo.
+{2264}{2318}Y nadie, ni tú,|ni siquiera yo...
+{2318}{2374}...lo puede disuadir|de lo que cree.
+{2382}{2445}Lo cree tan ciegamente...
+{2448}{2556}...que va a sacrificar su vida|para salvar la tuya.
+{2558}{2577}¿Qué?
+{2582}{2654}Vas a tener que|tomar una decisión.
+{2668}{2756}Por un lado, tienes|la vida de Morfeo.
+{2764}{2836}Y por el otro,|tienes la tuya.
+{2870}{2926}Uno de los dos|va a morir.
+{2974}{3055}¿Cuál de los dos?|De ti depende.
+{3084}{3135}Lo siento, muchacho.|De veras.
+{3137}{3178}Tienes un alma buena.
+{3202}{3273}Y odio dar malas noticias|a la gente buena.
+{3344}{3380}No te preocupes.
+{3384}{3445}Tan pronto atravieses |esa puerta...
+{3450}{3501}...|empezarás a sentirte mejor.
+{3517}{3611}Te acordarás de que no crees|en estas estupideces del destino.
+{3626}{3696}Tú controlas tu propia vida...
+{3714}{3746}...|¿te acuerdas?
+{3787}{3814}Toma...
+{3858}{3894}...|agarra una galleta.
+{3909}{3990}Te prometo que para cuando|acabes de comerla...
+{4011}{4070}...|te sentirás de maravilla.
+{4289}{4323}Lo que te dijo...
+{4335}{4372}...|fue para tus oídos...
+{4383}{4430}...|y para los de nadie más.
+{4733}{4777}La Mujer|de Rojo
+{4976}{5005}Ya van para allá.
+{5724}{5745}¿Qué es eso?
+{6099}{6134}Oh, un déjà vu.
+{6217}{6244}¿Qué dijiste?
+{6249}{6286}Nada. Es que tuve|un déjà vu.
+{6289}{6330}-¿Qué viste?|-¿Qué pasó?
+{6362}{6418}Pasó un gato negro...
+{6421}{6461}...y luego otro|idéntico.
+{6466}{6505}¿Qué tan idéntico?|¿El mismo?
+{6532}{6556}No estoy seguro.
+{6573}{6596}Switch, Apoc.
+{6701}{6720}¿Qué pasó?
+{6725}{6837}Un Déjà vu es un error en la Matrix.|Sucede cuando cambian algo.
+{6914}{6931}¡Dios mío!
+{6978}{7002}Vamos.
+{7125}{7171}Cortaron el cable.| ¡Huyan!
+{7310}{7329}Ay, no.
+{8296}{8359}Cambiaron eso. Estamos atrapados|sin salida.
+{8360}{8410}Calma.| Dame tu teléfono.
+{8413}{8451}Lo van a rastrear.
+{8455}{8491}No tenemos más remedio.
+{8523}{8552}Operador.
+{8560}{8632}Busca un dibujo estructural|del edificio. ¡Rápido!
+{8817}{8880}-Ya lo tengo.|-Dime la pared de las tuberías.
+{8956}{8976}Octavo piso.
+{8982}{9022}Están en el octavo piso.
+{9027}{9064}Directamente enfrente.
+{9503}{9543}Ahora a la izquierda.|Ésa es.
+{9546}{9573}Bien.
+{9805}{9839}¿Dónde están?
+{11285}{11314}En las paredes.
+{11348}{11376}¡Están en las paredes!
+{11890}{11910}¡Un agente!
+{12144}{12169}¡Saca a Neo!
+{12176}{12224}¡Él es lo único|que importa!
+{12228}{12259}¡No, Morfeo,| no!
+{12262}{12283}¡Trinity, vete!
+{12300}{12337}¡Vete!
+{12486}{12534}-¡No podemos dejarlo!|-¡No hay más remedio!
+{13136}{13159}¡Cypher!| ¡Apúrate!
+{13277}{13331}El gran Morfeo.|Al fin nos encontramos.
+{13378}{13395}¿Y tú eres?
+{13413}{13456}Smith.
+{13461}{13494}El agente Smith.
+{13507}{13557}Me parecen todos iguales.
+{14888}{14922}Llévenselo.
+{15238}{15283}-Operador.|-Necesito una salida, ya.
+{15329}{15403}Hubo un maldito |accidente de auto.
+{15409}{15454}¡De repente,| pum!
+{15457}{15492}Dios todavía me quiere.
+{15497}{15524}Ya te localicé.
+{15539}{15588}Sácame de aquí,| rápido.
+{15591}{15657}Ve a Franklin y Erie,|un taller de televisores.
+{15660}{15686}Hecho.
+{15759}{15801}-Operador.|-Tank, soy yo.
+{15804}{15833}¿Está vivo Morfeo?
+{15842}{15874}¿Está vivo Morfeo,| Tank?
+{15881}{15925}Sí,| lo están transportando.
+{15933}{15993}Está vivo.|Necesitamos una salida.
+{15994}{16018}Están cerca de Cypher.
+{16023}{16057}-¿Cypher?|-Ya lo sé.
+{16060}{16109}-Va a Franklin y Erie.|-Entendido.
+{16328}{16359}Ya lo tengo.
+{16619}{16645}¿Dónde están?
+{16650}{16682}Voy a hacer la llamada.
+{16694}{16725}Muy bien.
+{17049}{17070}Tú primero,| Neo.
+{17145}{17164}¡Carajo!
+{17383}{17438}No sé.|Se cortó la línea.
+{18077}{18107}Hola, Trinity.
+{18115}{18147}¿Cypher?| ¿Y Tank?
+{18283}{18309}¿Sabes qué?
+{18349}{18401}Durante mucho tiempo...
+{18429}{18502}...pensé que estaba|enamorado de ti.
+{18518}{18568}Solía soñar contigo.
+{18593}{18662}Eres una mujer hermosa,| Trinity.
+{18665}{18723}Lástima que las cosas|acabaran así.
+{18737}{18756}Tú los mataste.
+{18771}{18809}¿Qué?
+{18812}{18847}Estoy cansado,| Trinity.
+{18879}{18926}Estoy cansado de|esta guerra...
+{18932}{19002}...cansado de pelear,|cansado de esta nave...
+{19009}{19122}...de tener frío, de comer el mismo|maldito atole todos los días.
+{19177}{19201}Pero más que nada...
+{19213}{19298}...estoy cansado de ese pendejo|y todas sus estupideces.
+{19320}{19352}¡Sorpresa,| idiota!
+{19364}{19421}Apuesto a que|no te esperabas esto...
+{19424}{19450}...¿verdad?
+{19504}{19565}Dios mío, quisiera poder|estar ahí...
+{19575}{19613}...|cuando te quiebren.
+{19637}{19714}Quisiera poder entrar|justo cuando suceda.
+{19730}{19771}Para que en ese instante...
+{19776}{19808}...|sepas que fui yo.
+{19826}{19850}Tú les entregaste a Morfeo.
+{19853}{19891}Él nos mintió,| Trinity.
+{19902}{19941}¡Nos engañó!
+{19950}{20003}¡Si nos hubiera dicho|la verdad...
+{20006}{20078}...lo habríamos mandado a volar|con su píldora roja!
+{20080}{20136}No es cierto, Cypher.|Él nos liberó.
+{20137}{20161}"Liberó".
+{20166}{20209}¿Llamas a esto|ser libre?
+{20265}{20324}Sólo hago lo que él me dice.
+{20363}{20436}Si tuviera que elegir entre eso|y la Matrix...
+{20460}{20494}...|elegiría la Matrix.
+{20495}{20535}La Matrix no es real.
+{20542}{20578}No estoy de acuerdo.
+{20582}{20639}Yo creo que la Matrix...
+{20644}{20706}...puede ser más real|que este mundo.
+{20759}{20821}Aquí sólo tengo que|jalar el cable...
+{20833}{20857}...pero allá...
+{20868}{20925}...|tienes que ver morir a Apoc.
+{21111}{21151}Bienvenida al mundo real,| nena.
+{21159}{21183}Pero estás fuera.
+{21184}{21248}-No puedes volver.|-Eso crees tú.
+{21250}{21290}Van a reinsertar mi cuerpo.
+{21291}{21384}Volveré a dormir,|y al despertar no recordaré nada.
+{21386}{21411}A propósito...
+{21416}{21490}...si tienes algo importante|que decirle a Switch...
+{21497}{21525}...|díselo ahora.
+{21529}{21550}No, por favor.
+{21565}{21606}Así, no.
+{21646}{21686}Así, no.
+{21790}{21817}Demasiado tarde.
+{21824}{21867}¡Maldito seas,| Cypher!
+{21870}{21916}No me odies,| Trinity.
+{21924}{21972}Yo sólo soy un mensajero.
+{21979}{22057}Y te lo voy a demostrar|ahora mismo.
+{22079}{22124}Si Morfeo tenía razón...
+{22135}{22183}...entonces no lo |podré desenchufar.
+{22194}{22231}Si Neo es el Elegido...
+{22241}{22289}...|me tendrá que detener...
+{22290}{22354}...|alguna especie de milagro.
+{22367}{22386}¿Verdad?
+{22402}{22455}Digo, ¿cómo puede ser|el Elegido...
+{22460}{22484}...|si está muerto?
+{22514}{22570}Nunca me contestaste...
+{22576}{22634}...si creías en las tonterías|de Morfeo.
+{22640}{22720}Vamos. Sólo quiero|un pequeño sí o no.
+{22749}{22810}Míralo a los ojos...
+{22824}{22861}...a esos ojos grandes,| bonitos...
+{22923}{22960}...y dime...
+{22976}{23006}...sí...
+{23014}{23048}...o no.
+{23077}{23105}Sí.
+{23123}{23147}No lo creo.
+{23179}{23297}¡Aunque no lo creas, pedazo de mierda,|te vas a ir al infierno!
+{23743}{23767}Tú primero.
+{23962}{23983}Estás herido.
+{23991}{24018}No es grave.
+{24084}{24114}¿Y Dozer?
+{24547}{24608}¿Nunca se ha parado y|la ha visto...
+{24629}{24705}...maravillándose|de su belleza...
+{24710}{24766}...|su genialidad?
+{24795}{24841}Miles de millones de personas...
+{24846}{24913}...viviendo sus |vidas normales...
+{24936}{24977}...|sin darse cuenta de nada.
+{25084}{25156}¿Sabía que la primera Matrix...
+{25161}{25278}...fue diseñada para ser un mundo|humano perfecto, sin sufrimiento...
+{25286}{25358}...donde todos iban a|ser felices?
+{25367}{25407}Fue un desastre.
+{25409}{25519}Nadie aceptaba el programa.|Se perdieron cosechas enteras.
+{25535}{25578}Algunos piensan |que nos faltaba...
+{25583}{25693}...el lenguaje de programación|para describir su mundo ideal.
+{25693}{25732}Pero yo creo que...
+{25741}{25765}...|como especie...
+{25770}{25866}...los seres humanos definen su realidad|a través de la desdicha...
+{25868}{25901}...|y el sufrimiento.
+{25904}{25973}Así que el mundo perfecto|era un sueño del que...
+{25976}{26098}...su cerebro primitivo se trataba|de despertar constantemente.
+{26123}{26218}Por lo cual la Matrix fue rediseñada|para darle su forma actual.
+{26224}{26261}La cima de...
+{26267}{26301}...|su civilización.
+{26302}{26365}Digo "su civilización" porque...
+{26366}{26470}...al empezar a usarnos para pensar,|se volvió nuestra civilización...
+{26472}{26548}...que es, por supuesto,|la esencia de todo esto.
+{26577}{26641}La evolución,| Morfeo.
+{26646}{26676}La evolución.
+{26732}{26780}Como el dinosaurio.
+{26828}{26870}Asómese por esa ventana.
+{26886}{26938}Tuvieron su época.
+{26951}{27052}El futuro es nuestro mundo,| Morfeo.
+{27057}{27114}El futuro es nuestra época.
+{27215}{27244}Quizá haya un problema.
+{27266}{27349}-¿Qué le están haciendo?|-Metiéndose en su mente.
+{27349}{27407}Es como una computadora.|Con el tiempo, cede.
+{27410}{27440}¿Cuánto tiempo?
+{27445}{27523}Depende de la mente.|Pero todas se quiebran...
+{27525}{27639}...y sus patrones alfa cambiarán|de esto a esto.
+{27639}{27712}Cuando se quiebre, Morfeo|les dirá lo que quieran.
+{27714}{27739}¿Qué quieren?
+{27746}{27846}Al líder de cada nave le dan códigos|para la computadora de Sión.
+{27923}{28000}...nos pueden destruir.|No podemos permitirlo.
+{28019}{28057}Sión es más importante que yo...
+{28062}{28086}...o tú...
+{28094}{28121}...|incluso que Morfeo.
+{28214}{28257}Debemos de poder hacer algo.
+{28265}{28315}Sí,| desenchufarlo.
+{28388}{28431}¿Lo vas a matar?
+{28435}{28463}¿Matar a Morfeo?
+{28476}{28519}No tenemos otra opción.
+{28679}{28753}Nunca uses a un humano|para el trabajo de una máquina.
+{28754}{28801}Si nuestro soplón|ha fracasado...
+{28804}{28885}...cortarán la conexión|lo antes posible, a menos...
+{28885}{28930}Que estén muertos.|En todo caso...
+{28933}{29023}Tenemos que seguir con el plan.|Desplieguen a los centinelas.
+{29024}{29050}Inmediatamente.
+{29176}{29243}Morfeo, fuiste más que un líder|para nosotros.
+{29264}{29320}Fuiste un padre.
+{29352}{29402}Siempre te extrañaremos.
+{29571}{29595}¡Alto!
+{29624}{29654}No puedo creer esto.
+{29657}{29708}-Lo tenemos que hacer.|-¿De veras?
+{29726}{29760}Yo no sé.
+{29768}{29806}Esto no puede ser coincidencia.
+{29811}{29832}¿Qué?
+{29841}{29864}La Pitonisa...
+{29867}{29913}...|me dijo que esto pasaría.
+{29921}{30025}Me dijo que yo tendría|que decidir.
+{30031}{30062}¿Decidir qué?
+{30134}{30154}¿Qué haces?
+{30162}{30193}Voy a entrar.
+{30199}{30231}No,| no vas a entrar.
+{30239}{30257}Tengo que entrar.
+{30262}{30353}Morfeo se sacrificó|para que te pudiéramos sacar.
+{30353}{30402}No puedes volver a entrar.
+{30415}{30496}Morfeo lo hizo porque creía|que soy algo que no soy.
+{30570}{30612}Yo no soy el Elegido.
+{30618}{30693}-La Pitonisa me lo dijo.|-No, tienes que serlo.
+{30695}{30760}Discúlpame, pero no.|Soy otro tipo cualquiera.
+{30775}{30807}No, Neo,| no es verdad.
+{30819}{30851}No puede ser verdad.
+{30858}{30883}¿Por qué?
+{30989}{31070}Estás loco. Tienen a Morfeo|en un edificio militar.
+{31074}{31182}Aun si lograras entrar, está en poder|de tres agentes.
+{31211}{31308}Yo también quiero recuperar a Morfeo,|pero eso es un suicidio.
+{31308}{31350}Aparentemente,| sí...
+{31353}{31377}...|pero no lo es.
+{31384}{31443}No te puedo explicar por qué.
+{31467}{31561}Morfeo creía en una cosa tanto,|como para sacrificar su vida.
+{31561}{31636}Ya lo entendí.|Por eso tengo que ir.
+{31639}{31660}¿Por qué?
+{31663}{31702}Porque yo creo en algo.
+{31703}{31726}¿En qué?
+{31759}{31802}Creo que lo puedo rescatar.
+{32208}{32255}-¿Qué haces?|-Voy contigo.
+{32261}{32280}No, no vienes.
+{32288}{32309}¿No?
+{32336}{32391}Te voy a decir|en qué creo yo.
+{32400}{32459}Creo que Morfeo me importa|más a mí que a ti.
+{32466}{32571}Creo que si de veras lo quieres salvar,|necesitarás mi ayuda.
+{32571}{32627}Y como soy el oficial|de mayor rango...
+{32629}{32701}...si no te gusta,|te puedes ir al diablo.
+{32717}{32774}Porque no vas a ir|a ningún otro lado.
+{32784}{32806}Tank...
+{32824}{32853}...cárganos.
+{33081}{33164}Quisiera compartir una revelación|que he tenido...
+{33171}{33212}...|durante mi tiempo aquí.
+{33215}{33316}Me di cuenta cuando traté|de clasificar su especie...
+{33318}{33374}...y me di cuenta|de que Uds...
+{33375}{33434}...|no son realmente mamíferos.
+{33482}{33546}Todos los mamíferos|en este planeta...
+{33553}{33674}...desarrollan equilibrio|con el ambiente que los rodea.
+{33674}{33722}Pero Uds.,| los humanos, no.
+{33732}{33821}Llegan a una zona y|se multiplican.
+{33823}{33935}Se multiplican hasta consumir|todos los recursos naturales.
+{33939}{33992}Su única manera de sobrevivir...
+{33995}{34072}...|es esparciéndose a otra zona.
+{34197}{34269}Hay otro organismo|en este planeta...
+{34270}{34321}...que sigue el mismo|patrón.
+{34334}{34374}¿Sabe cuál es?
+{34384}{34427}El virus.
+{34459}{34536}Los seres humanos|son una enfermedad.
+{34542}{34582}Un cáncer de este planeta.
+{34585}{34638}Uds.| son una plaga.
+{34649}{34673}Y nosotros...
+{34684}{34721}...|somos la cura.
+{34743}{34779}Bueno,| ¿qué necesitas?
+{34793}{34822}Además de un milagro.
+{34833}{34863}Armas.
+{34887}{34911}Muchas armas.
+{35220}{35263}Nadie ha hecho nada parecido.
+{35309}{35356}Por eso va a funcionar.
+{35455}{35501}¿Por qué no ha funcionado|el suero?
+{35512}{35573}Quizá las preguntas|estén mal.
+{35619}{35650}Déjenme con él.
+{35712}{35739}Ahora mismo.
+{36008}{36048}Aguanta,| Morfeo.
+{36051}{36120}Ya vienen a salvarte.|Ya vienen.
+{36174}{36227}¿Me oye,| Morfeo?
+{36230}{36297}Voy a ser sincero...
+{36303}{36332}...con usted.
+{36438}{36471}Yo...
+{36495}{36519}...odio...
+{36526}{36574}...|este lugar...
+{36580}{36638}...|este zoológico...
+{36641}{36671}...|esta prisión...
+{36673}{36754}...esta realidad,|como Ud. le quiera decir.
+{36754}{36813}Ya no la aguanto más.
+{36829}{36876}Es el olor.
+{36906}{36954}Si tal cosa existe.
+{36960}{37044}Siento que me satura.
+{37072}{37109}Puedo...
+{37112}{37133}...probar...
+{37152}{37205}...su hedor.
+{37208}{37299}Y cada vez que lo hago,|temo que me lo haya pegado.
+{37302}{37323}Es repugnante.
+{37346}{37381}¿Verdad?
+{37432}{37491}Necesito irme de aquí.
+{37494}{37555}Necesito liberarme.
+{37557}{37627}Y en esta mente|está la clave.
+{37632}{37672}Mi clave.
+{37673}{37748}Ya que Sión sea destruida,|no tendré que estar aquí.
+{37752}{37793}¿Me entiende?
+{37798}{37833}Necesito los códigos.
+{37836}{37895}Necesito entrar a Sión...
+{37900}{37964}...y Ud. tiene que decirme|cómo.
+{37971}{38019}Me lo va a decir o...
+{38020}{38075}...va a morir.
+{38557}{38621}¿Se puede quitar todos|los objetos metálicos?
+{38680}{38755}Llaves, monedas.|¡Santo cielo!
+{39043}{39066}Apoyo.
+{39069}{39109}Manden apoyo.
+{39682}{39703}¡No se muevan!
+{42942}{42967}¿Qué hacías?
+{43010}{43044}No sabe nada.
+{43047}{43082}¿Saber qué?
+{43421}{43461}PARADA DE EMERGENCIA
+{43602}{43626}ARMADA
+{43755}{43819}Creo que están tratando|de salvarlo.
+{44169}{44216}Las cucharas no existen.
+{44924}{45042}¡Destrúyanlos!|¡Repito, nos están atacando!
+{45871}{45884}¡Ayúdame!
+{46421}{46452}Sólo es humano.
+{46477}{46500}Esquiva esto.
+{46818}{46855}-¿Cómo hiciste eso?|-¿Qué?
+{46864}{46960}Moverte como ellos.|Más rápido que nadie.
+{46984}{47019}Y no fue suficiente.
+{47083}{47117}¿Sabes pilotear esa cosa?
+{47145}{47166}Todavía no.
+{47248}{47270}Operador.
+{47273}{47353}Necesito un programa de piloto|para un helicóptero B-212.
+{47361}{47393}¡Apúrate!
+{47582}{47622}Vámonos.
+{47983}{48010}No.
+{49246}{49284}Morfeo,| levántese.
+{49287}{49310}Levántese,| levántese.
+{50221}{50245}No va a llegar hasta acá.
+{50480}{50505}Lo agarré.
+{53115}{53152}Ya lo sabía.
+{53170}{53195}Él es el Elegido.
+{53576}{53632}¿Ahora sí|lo crees, Trinity?
+{53772}{53793}La Pitonisa...
+{53824}{53881}Ella me dijo...|Ella te dijo...
+{53889}{53927}...justo lo que|necesitabas oír.
+{53932}{53967}Eso es todo.
+{53991}{54063}Neo, tarde o temprano|te darás cuenta, como yo...
+{54070}{54127}...que es diferente|conocer el camino...
+{54142}{54175}...|que recorrerlo.
+{54247}{54274}Operador.
+{54297}{54362}-Qué gusto oír su voz, señor.|-Necesitamos salir.
+{54365}{54436}Vayan a la estación del metro|entre State y Balboa.
+{54744}{54768}¡Maldita sea!
+{54773}{54805}Rastreamos la llamada.
+{54808}{54832}Tenemos su posición.
+{54842}{54896}Hay centinelas en alerta.
+{54936}{54973}Ordena el ataque.
+{55443}{55476}Tú primero,| Morfeo.
+{55972}{56029}Neo, te quiero decir|una cosa...
+{56104}{56204}...pero tengo miedo de|lo que pueda significar.
+{56287}{56368}Todo lo que la Pitonisa me dijo|se ha vuelto realidad.
+{56432}{56467}Todo,| menos esto.
+{56510}{56530}¿Menos qué?
+{57161}{57203}-¿Qué diablos pasó?|-Un agente.
+{57206}{57228}Mándame de regreso.
+{57231}{57252}No puedo.
+{57300}{57350}Sr. Anderson.
+{57399}{57436}Corre, Neo,| corre.
+{57562}{57602}¿Qué está haciendo?
+{57605}{57637}Está empezando a creer.
+{58283}{58317}Ya no tiene balas.
+{58326}{58363}Ud. tampoco.
+{59154}{59229}Va a ser un placer|verlo morir...
+{59253}{59277}...Sr.| Anderson.
+{60260}{60313}Dios mío,| lo está matando.
+{62375}{62429}¿Oye eso,| Sr. Anderson?
+{62444}{62517}Es el sonido de lo|inevitable.
+{62580}{62663}Es el sonido de|su muerte.
+{62680}{62739}Adiós, Sr.| Anderson.
+{62741}{62784}Yo me llamo...
+{62851}{62906}...Neo.
+{63676}{63730}-¿Qué pasó?|-No sé. Lo perdí.
+{63734}{63772}ADVERTENCIA DE PROXIMIDAD
+{63788}{63815}Ah, carajo.
+{64109}{64146}Centinelas.
+{64164}{64220}-¿Cuánto tiempo?|-5, quizá 6, minutos.
+{64264}{64320}Carga el pulso electromagnético.
+{64325}{64402}-Debemos esperar a que salga.|-Ya lo sé, no te preocupes.
+{64432}{64451}Va a salir.
+{64458}{64504}¿Planos o de plataforma?| No, sólo...
+{64507}{64581}¿Qué demonios?|¡Ese teléfono es mío!
+{64589}{64627}¡Ese tipo se llevó mi teléfono!
+{64683}{64702}Ya lo localicé.
+{64709}{64741}Está huyendo.
+{64742}{64766}¡Sr. Mago...
+{64774}{64811}...|sácame de aquí!
+{64814}{64862}Hay una vieja salida|en Wabash y Lake.
+{64955}{64977}¡Ah, carajo!
+{65495}{65543}¡Auxilio!|¡Necesito que me ayudes!
+{65583}{65612}La puerta.
+{65994}{66032}La puerta a tu izquierda.
+{66050}{66083}¡A tu otra izquierda!
+{66243}{66278}La puerta trasera.
+{66732}{66761}ALERTA ROJA
+{66769}{66798}Ay, no.
+{67565}{67594}Va a salir.
+{67838}{67917}Las escaleras al final del callejón,|cuarto 303.
+{68690}{68722}PENETRACIÓN DEL CASCO
+{68761}{68781}Están dentro.
+{68842}{68861}Apúrate, Neo.
+{70212}{70239}No puede ser.
+{70425}{70458}Examínalo.
+{70554}{70591}Está muerto.
+{70752}{70813}Adiós, Sr.| Anderson.
+{71051}{71101}Ya no tengo miedo.
+{71206}{71240}La Pitonisa me dijo que me iba|a enamorar, y que me enamoraría...
+{71257}{71304}...del Elegido.
+{71379}{71427}Así que,| como verás...
+{71441}{71491}...|no puedes estar muerto.
+{71529}{71574}No puedes estarlo...
+{71609}{71662}...|porque yo te amo.
+{71703}{71746}¿Me oyes?
+{71772}{71815}Te amo.
+{72387}{72413}Ahora,| levántate.
+{72629}{72649}No.
+{73294}{73314}¿Cómo?
+{73335}{73361}Es el Elegido.
+{76825}{76864}Sé que están allá afuera.
+{76869}{76916}Ya los siento.
+{76925}{76970}Sé que tienen miedo.
+{76975}{77013}Nos tienen miedo a nosotros.
+{77021}{77064}Tienen miedo del cambio.
+{77069}{77133}-FALLA DEL SISTEMA|-No sé qué depara el futuro.
+{77135}{77200}No vine a decirles|cómo va a acabar esto.
+{77202}{77275}Vine a decirles|cómo va a empezar.
+{77296}{77336}Voy a colgar este teléfono...
+{77339}{77419}...y le voy a mostrar a esta gente|lo que Uds. no quieren que vean.
+{77421}{77469}Les voy a enseñar un mundo...
+{77470}{77515}...sin ustedes.
+{77518}{77613}Un mundo sin reglas y controles,|sin fronteras ni límites.
+{77614}{77705}Un mundo donde todo es|posible.
+{77766}{77801}A dónde vamos después...
+{77804}{77852}...|depende de Uds.
