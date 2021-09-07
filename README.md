@@ -1,4 +1,4 @@
-# mm
+# mm - Video Player
 
 Simple Video Player quickly made to watch a list of videos in a loop.
 
